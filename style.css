@@ -1,0 +1,10 @@
+.footer-container{
+    position: fixed;
+    width: 100vw;
+    height: 3rem;
+    margin: auto;
+    bottom: 0;
+}
+li{
+    list-style: none;
+}
